@@ -14,10 +14,7 @@ header  {
   font-weight: thin;
 }
 
-#image {
-  width: 25%;
-  padding-left: 12%;
-}
+
 
 #navbar {
   position: fixed;
@@ -46,7 +43,7 @@ header  {
 }
 
 #main-doc header{
-  color: #FFAC0D;
+  color: #082c41;
 }
 
 .nav-link {
